@@ -1,0 +1,15 @@
+{
+  "name": "dhruv_package",
+  "version": "1.0.1",
+  "description": "this is my first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "first_package"
+  ],
+  "author": "Dhruv Asati",
+  "license": "ISC"
+}
