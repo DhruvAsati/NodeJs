@@ -1,0 +1,13 @@
+{
+  "name": "array-helper-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon index.js"
+  },
+  "keywords": ["array", "utility", "helper", "javascript"],
+  "author": "Dhruv Asati",
+  "license": "ISC",
+  "description": "A simple and efficient JavaScript library for array manipulation."
+}
