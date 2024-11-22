@@ -1,0 +1,13 @@
+{
+  "name": "binary-search-dhruvpackage",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Dhruv Asati",
+  "license": "ISC",
+  "description": "binary search package"
+}
