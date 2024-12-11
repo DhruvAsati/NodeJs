@@ -6,7 +6,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
-  "keywords": ["urlShortner", "url", "shortner"],
+  "keywords": [
+    "urlShortner",
+    "url",
+    "shortner"
+  ],
   "author": "Dhruv Asati",
   "license": "ISC",
   "description": "url shortner",
@@ -17,5 +21,8 @@
     "express": "^4.21.2",
     "mongoose": "^8.8.4",
     "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
   }
 }
